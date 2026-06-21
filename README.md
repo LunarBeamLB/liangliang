@@ -1,7 +1,5 @@
 # 参考链接
-* 官方文档：[quartz](https://quartz.jzhao.xyz/)
-* 安装参考：[使用Obisidian和Quartz 4编写博客](https://ningh.net/articles/blog-with-obsidian-quartz4) [Quartz 教程：从零开始构建你的数字花园](https://ainightcoder.github.io/8.%E8%BE%93%E5%87%BA/quartz/0d98412b93ef972b5389388471dcb61e1e6e479c)
-* systemd服务参考：[终极Bash脚本服务编排指南：systemd与bash完美结合教程](https://blog.csdn.net/gitblog_00667/article/details/153857541#:~:text=%E6%9C%AC%E6%96%87%E5%B0%86%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%20%2A%2Asystemd%2A%2A%20%E5%B0%86Bash%E8%84%9A%E6%9C%AC%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%A8%B3%E5%AE%9A%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E8%A1%8C%E4%B8%8E%E7%9B%91%E6%8E%A7%E3%80%82%20%23%23%20%F0%9F%9A%80%20%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9systemd%E7%AE%A1%E7%90%86Bash%E8%84%9A%E6%9C%AC%EF%BC%9F,-%20%2A%2A%E5%BC%80%E6%9C%BA%E8%87%AA%E5%90%AF%2A%2A%EF%BC%9A%E6%97%A0%E9%9C%80%E6%89%8B%E5%8A%A8%E8%BF%90%E8%A1%8C%EF%BC%8C%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E8%87%AA%E5%8A%A8%E6%BF%80%E6%B4%BB%E6%9C%8D%E5%8A%A1-%20%2A%2A%E8%BF%9B%E7%A8%8B%E5%AE%88%E6%8A%A4%2A%2A%EF%BC%9A%E8%84%9A%E6%9C%AC%E5%B4%A9%E6%BA%83%E6%97%B6%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF%EF%BC%8C%E7%A1%AE%E4%BF%9D%E6%9C%8D%E5%8A%A1%E7%A8%B3%E5%AE%9A%E6%80%A7-%20%2A%2A%E6%97%A5%E5%BF%97%E9%9B%86%E6%88%90%2A_systemd%20%E6%89%A7%E8%A1%8C%20bash%E5%91%BD%E4%BB%A4)
+- 删除了参考链接
 * github加速：[jasonzeng](https://gh.jasonzeng.dev/)
 # 前置配置
 ## 安装 Node
